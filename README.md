@@ -8,3 +8,6 @@ Poza requirements.txt, dla niektórych skryptów konieczna jest instalacja Morfe
 
 Skrypty uruchamiamy komendą python3 np:
 `python3 nlpinactionpl/p9p10p11.py`
+
+Polecamy uruchomienie skryptów w środowisku Google Colab, przy pomocy załączonego notatnika `notebook.ipynb`, pozwala to na łatwiejszą konfigurację zależności, oraz skorzystanie z GPU, co znacznie przyspieszy trening BERTa.
+
